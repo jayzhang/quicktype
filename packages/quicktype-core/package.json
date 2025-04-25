@@ -1,11 +1,11 @@
 {
-    "name": "quicktype-core",
-    "version": "18.0.15",
-    "description": "The quicktype engine as a library",
+    "name": "quicktype-core-jayzhang",
+    "version": "18.0.16-beta.2025042501",
+    "description": "Customized version of the quicktype-core library",
     "license": "Apache-2.0",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "repository": "https://github.com/quicktype/quicktype",
+    "repository": "https://github.com/jayzhang/quicktype",
     "scripts": {
         "clean": "rm -rf dist node_modules *~",
         "build": "tsc"
