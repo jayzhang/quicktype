@@ -1,6 +1,6 @@
 {
     "name": "quicktype-core-jayzhang",
-    "version": "18.0.16-beta.2025042501",
+    "version": "18.0.16-beta.2025042502",
     "description": "Customized version of the quicktype-core library",
     "license": "Apache-2.0",
     "main": "dist/index.js",
